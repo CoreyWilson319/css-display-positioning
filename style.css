@@ -4,14 +4,17 @@
 
 .one {
     display: block;
+    border: 1px dashed blue;
 }
 
 .two {
     display: inline;
+    border: 1px solid hotpink;
 }
 
 .three {
     display: inline-block;
+    border: 1px dashed greenyellow;
 }
 
 .four {
